@@ -1,0 +1,6 @@
+bucket_name="guava12345"
+cidr= "10.0.0.0/16"
+vpc_name = "test"
+amiid="ami-08718895af4dfa033"
+microid="t2.micro"
+keyname="tech123"
